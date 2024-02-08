@@ -18,7 +18,7 @@ const Header = () => {
         !
       </h2>
       <h3 className="text-lg font-medium">
-        To get started, just click the "Who will pay for coffee today" button.
+        To get started, just click the "Who will pay for coffee today?" button.
       </h3>
     </div>
   );
