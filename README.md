@@ -1,1 +1,2 @@
-# bertram-capital-challenge
+# Michael's Bertram Capital Coding Challenge Answer <!-- omit in toc -->
+
