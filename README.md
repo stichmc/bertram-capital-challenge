@@ -2,7 +2,7 @@
 
 ## Usage Instructions
 
-Online: Visit [this link]("www.google.com") which navigates to ``
+Online: Visit [this link](https://stichmc.github.io/bertram-capital-challenge/) which navigates to `https://stichmc.github.io/bertram-capital-challenge/`
 
 ### Or
 
