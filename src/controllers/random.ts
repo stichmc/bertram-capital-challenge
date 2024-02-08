@@ -6,8 +6,3 @@ const pickRandomName = (names: string[]): string => {
 }
 
 export default pickRandomName;
-  
-// Example usage
-const namesArray: string[] = ["Alice", "Bob", "Charlie", "David", "Eve"];
-const randomName: string = pickRandomName(namesArray);
-console.log("Randomly picked name:", randomName);
