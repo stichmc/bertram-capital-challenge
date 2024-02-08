@@ -9,6 +9,6 @@ Online: Visit [this link](https://stichmc.github.io/bertram-capital-challenge/) 
 Locally: 
 1. Install Node.js (minimum version 20)
 2. Clone the repo, and navigate to it in your console
-3. Run `npm run dev`
+3. Run `npm i` then `npm run dev`
 4. Go to the link `http://localhost:5173/`
 5. Have Fun!
